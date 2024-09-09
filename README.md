@@ -1,1 +1,1 @@
-![Spring Data JPA](img/spring-data-mongodb.jpg)
+<img src="/img/spring-data-mongodb.jpg" alt="Alt text" style="width: 100%; height: auto; object-fit: cover;">
