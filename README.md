@@ -1,0 +1,1 @@
+![Spring Data JPA](img/spring-data-mongodb.jpg)
